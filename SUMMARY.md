@@ -3,7 +3,6 @@
 ## 📖 About
 
 * [What is the FTCSimulator?](README.md)
-* [Who we are](about/who-we-are.md)
 * [Why use our FTCSimulator?](about/why-use-our-ftcsimulator.md)
 
 ## 📖 Getting Started
